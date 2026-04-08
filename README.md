@@ -301,7 +301,7 @@ Each module may include a `postman_collection.json` file for quick import and te
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/thenaveengautam)
+MIT © [Naveen Gautam](https://github.com/thenaveengautam)
 
 ---
 
